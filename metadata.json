@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FinGuard AI",
+  "description": "An intelligent financial advisor \u0026 risk safety companion built for modern wealth management, scam protection, and dynamic predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
